@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.logo {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+}
+
+.logo img {
+    object-fit: cover;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.accounts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input {
+    width: 300px;
+}
+
+.inputs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.inputs input {
+    margin-bottom: 20px;
+}
+
+.inputs button {
+    width: 100px;
+}
+
+.accounts-title {
+    font-weight: 700;
+    margin-bottom: 40px;
+}
