@@ -1,6 +1,8 @@
 #  Devices shop using Django, Heroku, Postgresql
 
 #### Link to Heroku https://web-final-2022.herokuapp.com/
+#### Link to admin panel https://web-final-2022.herokuapp.com/admin
+#### Login: admin, password: admin
 
 #### Main page with list of devices
 ![](doc/1.png)
